@@ -1,0 +1,19 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/c52b2_next_dist_7bda9bd8._.js",
+      "static/chunks/habittracker_src_app_favicon_ico_mjs_84983175._.js",
+      "static/chunks/habittracker_src_app_globals_8fba8249.css",
+      "static/chunks/habittracker_src_app_layout_8d766c8b.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_93b1f7ef._.js",
+      "static/chunks/c52b2_next_dist_compiled_react-dom_0361ebff._.js",
+      "static/chunks/c52b2_next_dist_compiled_next-devtools_index_f6c709ce.js",
+      "static/chunks/c52b2_next_dist_compiled_f90565f9._.js",
+      "static/chunks/c52b2_next_dist_client_0f2eeead._.js",
+      "static/chunks/c52b2_next_dist_83f2916f._.js",
+      "static/chunks/c52b2_@swc_helpers_cjs_ab2bc367._.js",
+      "static/chunks/habittracker_a0ff3932._.js",
+      "static/chunks/turbopack-habittracker_9de98c87._.js"
+    ]
+  }
+}
